@@ -1,5 +1,15 @@
 #P2P Sockets
 
+https://web.archive.org/web/20060503110718/http://p2psockets.jxta.org/
+http://cs.berry.edu/~nhamid/p2p/
+https://web.archive.org/web/20060503110718/http://p2psockets.jxta.org/
+https://web.archive.org/web/20060202063104/http://p2psockets.jxta.org/docs/tutorials/1.html
+https://web.archive.org/web/20060705224704/http://p2psockets.jxta.org/docs/tutorials/2.html
+https://web.archive.org/web/20060202063104/http://p2psockets.jxta.org/docs/tutorials/1.html
+https://steemit.com/utopian-io/@lapulga/java-tutorial-how-to-create-peer-to-peer-network-with-java-programming-on-netbeans
+https://www.resilio.com/blog/whats-the-difference-between-peer-to-peer-and-client-server
+
+
 #Note: The P2P Sockets is no longer maintained or supported. It is present here for archival purposes.
 
 ##Overview
