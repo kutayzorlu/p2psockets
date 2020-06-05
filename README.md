@@ -9,6 +9,8 @@ https://web.archive.org/web/20060202063104/http://p2psockets.jxta.org/docs/tutor
 https://steemit.com/utopian-io/@lapulga/java-tutorial-how-to-create-peer-to-peer-network-with-java-programming-on-netbeans
 https://www.resilio.com/blog/whats-the-difference-between-peer-to-peer-and-client-server
 
+https://stackoverflow.com/questions/32144257/p2p-connection-between-2-clients-through-server
+
 
 #Note: The P2P Sockets is no longer maintained or supported. It is present here for archival purposes.
 
